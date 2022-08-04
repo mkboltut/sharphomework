@@ -1,8 +1,0 @@
-C:\Users\mkbol\Desktop\HWSharp\sharphomework\homework1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\mkbol\Desktop\HWSharp\sharphomework\homework1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\mkbol\Desktop\HWSharp\sharphomework\homework1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\mkbol\Desktop\HWSharp\sharphomework\homework1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-C:\Users\mkbol\Desktop\HWSharp\sharphomework\homework1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
-C:\Users\mkbol\Desktop\HWSharp\sharphomework\homework1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\mkbol\Desktop\HWSharp\sharphomework\homework1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\mkbol\Desktop\HWSharp\sharphomework\homework1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
