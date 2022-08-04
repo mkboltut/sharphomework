@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Болтуцкий Михаил, урок 1, задания 1 (а, б, в), 2, 4(а, б)
+
 namespace ConsoleApp1
 {
     internal class Program
@@ -34,6 +36,11 @@ namespace ConsoleApp1
             float indexMass = w/(h*h);
             Console.WriteLine("\nИндекс массы тела равен: {0}", indexMass);
 
+            /*
+               Написать программу обмена значениями двух переменных типа int без использования вспомогательных методов.
+               а) с использованием третьей переменной;
+               б) без использования третьей переменной.
+            */
             int a = 3;
             int b = 5;
             (a, b ) = (b, a);
